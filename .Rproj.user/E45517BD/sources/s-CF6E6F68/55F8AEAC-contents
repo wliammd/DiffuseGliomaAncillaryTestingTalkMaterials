@@ -1,0 +1,21 @@
+---
+title: "Diffuse Glioma Testing Resources"
+author: "W. McDonald, MD"
+date: "10/31/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Purpose:
+
+To provide a short list of resources for health care providers who take care of diffuse glioma patients.
+
+##Important websites:
+http://www.cbioportal.org
+
+## Links to important papers in DropBox:
+
+
