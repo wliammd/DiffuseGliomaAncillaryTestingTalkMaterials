@@ -2,7 +2,13 @@
 title: "CAP Diffuse Glioma Subcommittee Notes"
 author: "W. McDonald, MD"
 date: "10/31/2018"
-output: html_document
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+csl: vancouver.csl
+bibliography: bibliography.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -13,9 +19,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Associate the seven mutations/alterations in the CAP Diffuse Glioma subcommittee comprised of Harris, Hawks, and McDonald with appropriate references either 1) derived from the search, or 2) submitted by the subcommittee (for approval by the methodologist)
 
-Note: I will supplement observations from the literature with searches of the TCGA database using cbioportal.org merged LGG and GBM datasets
+Note: I will supplement observations from the literature with searches of the TCGA database using [link](cbioportal.org) merged LGG and GBM datasets 
 
 ### Chromosome 10:
+
+
 
 ### BRAF:
 
