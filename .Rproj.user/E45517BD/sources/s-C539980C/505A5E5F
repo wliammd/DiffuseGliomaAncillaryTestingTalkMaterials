@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540999202861.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3029794041",
+    "id" : "505A5E5F",
+    "lastKnownWriteTime" : 1540999439,
+    "last_content_update" : 1540999439680,
+    "path" : "~/Documents/Projects/DiffuseGliomaAncillaryTalk/DiffuseGliomaTestingResources.Rmd",
+    "project_path" : "DiffuseGliomaTestingResources.Rmd",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "4",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
