@@ -19,20 +19,53 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Associate the seven mutations/alterations in the CAP Diffuse Glioma subcommittee comprised of Harris, Hawks, and McDonald with appropriate references either 1) derived from the search, or 2) submitted by the subcommittee (for approval by the methodologist)
 
-Note: I will supplement observations from the literature with searches of the TCGA database using [link](cbioportal.org) merged LGG and GBM datasets 
+Note: I will supplement observations from the literature with searches of the TCGA database using [link](cbioportal.org) merged LGG and GBM datasets (reference: Ceccarelli 2016)
 
 ### Chromosome 10:
-
+TCGA incidence:
+GBM: 
+LGG: 
+Merged:
 
 
 ### BRAF:
+TCGA incidence:
+GBM:
+LGG: 
+Merged:
+
 
 ### Chromosome 7: 
+TCGA incidence:
+GBM:
+LGG: 
+Merged:
+
 
 ### Histone 3:
+TCGA incidence:
+GBM:
+LGG: 
+Merged:
+
 
 ### CDKN2A:
+TCGA incidence:
+GBM:
+LGG: 
+Merged:
+
 
 ### CDK4: 
+TCGA incidence:
+GBM:
+LGG: 
+Merged:
+
 
 ### MDM2: 
+TCGA incidence:
+GBM:
+LGG: 
+Merged:
+
