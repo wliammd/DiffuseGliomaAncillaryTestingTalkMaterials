@@ -17,5 +17,18 @@ To provide a short list of resources for health care providers who take care of 
 http://www.cbioportal.org
 
 ## Links to important papers in DropBox:
+TCGA1: TCGA Nature 2008:1061 
+TCGA2: Brat NEJM 2015:2481
+cIMPACT-NOW 3: Brat 2018 Acta NP 
+MGMT: 
+   Hegi NEMJ 2005
+   Wick Nat Rev Neurol 2014:372
+   
+Rule outs/mimics of diffuse gliomas 
+   Qaddoumi Acta Neuropathol 2016:25
+   Sturm
+   
+
+
 
 
