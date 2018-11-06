@@ -1,8 +1,10 @@
 ---
 title: "Diffuse Glioma Testing Resources"
 author: "W. McDonald, MD"
-date: "10/31/2018"
-output: html_document
+date: "11/07/2018"
+output:
+  html_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -20,17 +22,22 @@ To provide a short list of resources for health care providers who take care of 
 [The molecular era of GBM begins](https://www.dropbox.com/s/j0g6w0l5a2kvsce/_ParsonsScience2008.pdf?dl=0)
 
 ### The rise of IDH1/2
-[Original work comes from TCGA GBM dataset!?](https://www.dropbox.com/s/w9vnuvhse0wcujb/_YanNEJM2009.pdf?dl=0)
+[Original work comes from TCGA **GBM** dataset!?](https://www.dropbox.com/s/w9vnuvhse0wcujb/_YanNEJM2009.pdf?dl=0)
 
 [Lower grade diffuse gliomas examined by massive sequencing effort](https://www.dropbox.com/s/wk0p2mhb9yol7ox/_Brat_NEJM2015.pdf?dl=0) 
-[Brat 2018 Acta NP](https://www.dropbox.com/s/u9pewa9gnxaheug/_Brat2018_Article_CIMPACT-NOWUpdate3Recommended.pdf?dl=0)  
 
 [IDH mutant diffuse and anaplastic astrocytomas: pretty much the same thing](https://www.dropbox.com/s/ijmlhvj8om4cqg0/_ReussActaNP2015.pdf?dl=0)
+
+[The end of IDH wild type diffuse astrocytoma: WHO update with c-IMPACT-NOW update 3](https://www.dropbox.com/s/u9pewa9gnxaheug/_Brat2018_Article_CIMPACT-NOWUpdate3Recommended.pdf?dl=0)  
 
 ### Why methylation of MGMT is important 
 [The original New England Journal report](https://www.dropbox.com/s/paqv9ey72y3u0ih/_HegiMGMT_GBM_NEJM2005.pdf?dl=0)
 
 [Wick's review piece](https://www.dropbox.com/s/gmhh05iuxrwafnu/_Wick2014NatRevNeurol.pdf?dl=0) 
+
+### In our backyard: Mayo's "Revolution in Brain Tumor Diagnosis"
+
+[Mayo stratifies gliomas with 1p/19q, IDH status and TERT promoter methylation](https://www.dropbox.com/s/chud0zwxz2l2lmc/_EckelPassowNEJM2015.pdf?dl=0)
    
 ### IDH-WT grade II or III infiltrating astrocytoma: GBM in sheep's clothing
 
@@ -46,8 +53,13 @@ To provide a short list of resources for health care providers who take care of 
 
 [EGFR amplification, +7 and -10 shown to be helpful. . . at least in classification](https://www.dropbox.com/s/6bol1opw2kae2st/_StichelActaNP2018.pdf?dl=0)
 
+[TERT promoter mutation, +7, -10 shown to improve prognostication in IDH WT diffuse lower grade gliomas](https://www.dropbox.com/s/mhzkyrtxi23wd87/_WijnengaActaNP2017.pdf?dl=0)
+
 [But prognosis and prediction are mostly a matter of IDH mutation and MGMT promoter methylation](https://www.dropbox.com/s/rm5aycdeq0zj752/_Collins-2014.pdf?dl=0) 
    
+### Additional testing may be useful in some IDH mutant tumors too
+[CDKN2A loss is associated with shortened survival in IDH mutant grade II and III astrocytomas](https://www.dropbox.com/s/2n6p7u3qv03mncw/_ReisJNEN2015.pdf?dl=0)
+
 ### Other considerations 
 [Diffuse midline gliomas and histone mutations: nomenclature considerations](https://www.dropbox.com/s/tsso7m33tb787ql/_LouisActaNP2018.pdf?dl=0)
 
@@ -61,7 +73,7 @@ To provide a short list of resources for health care providers who take care of 
 
 #### Other uncommon low grade neuroepithelial tumors
 
-[Low-grade neuroepithelial tumors](https://www.dropbox.com/s/vxdbeewo4pmaqj6/_QaddoumiActaNP2016.pdf?dl=0)
+[Low-grade neuroepithelial tumors: BRAF, FGFR1 and MYB mutations](https://www.dropbox.com/s/vxdbeewo4pmaqj6/_QaddoumiActaNP2016.pdf?dl=0)
 
 #### High grade supratentorial pediatric neuroepithelial tumors
 [Uncommon supratentorial high grade neuroepithelial tumors](https://www.dropbox.com/s/zkled131o69t933/_SturmCell2016.pdf?dl=0)
@@ -73,13 +85,13 @@ To provide a short list of resources for health care providers who take care of 
 [Time to put away the microscope?](https://www.dropbox.com/s/39cbhe7dkkac5tq/_CapperNature2018.pdf?dl=0)
 
 ## Important websites:
-Sites for exploring The Cancer Genome Atlas (TCGA) data:
-
+#### Sites for exploring The Cancer Genome Atlas (TCGA) data:
 [Memorial Sloan Kettering Cancer Center:cBioPortal](http://www.cbioportal.org)
 
 [Broad Institute of MIT and Harvard: Firebrowse](http://firebrowse.org)
 
 [Fred Hutch, Seattle, Oncoscape](https://oncoscape.v3.sttrcancer.org)
 
-[Heidelberg methylation profiling:](https://www.molecularneuropathology.org/mnp)
+####Site for connecting to methylation profiling in Europe:
+[Heidelberg methylation profiling](https://www.molecularneuropathology.org/mnp)
 
