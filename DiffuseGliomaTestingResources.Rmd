@@ -16,36 +16,44 @@ To provide a short list of resources for health care providers who take care of 
 ## Important websites:
 Sites for exploring The Cancer Genome Atlas (TCGA) data:
 
-[link](http://www.cbioportal.org)
+[cbioportal](http://www.cbioportal.org)
 
-[link](http://firebrowse.org)
+[firebrowse](http://firebrowse.org)
 
-Site for exploring methylation profiling:
-
-[link](https://www.molecularneuropathology.org/mnp)
+[Heidelberg methylation profiling:](https://www.molecularneuropathology.org/mnp)
 
 
 ## Links to important papers in DropBox:
 What we know about glioblastoma:
 
-[link](https://www.dropbox.com/s/or0sndekgttrs84/_Parsons-2008-An%20integrated%20genomi.pdf?dl=0)  (TCGA Nature 2008:1061) 
+[TCGA Nature 2008:1061](https://www.dropbox.com/s/or0sndekgttrs84/_Parsons-2008-An%20integrated%20genomi.pdf?dl=0)
 
 ### The rise of IDH1/2:
-[link](https://www.dropbox.com/s/wk0p2mhb9yol7ox/_Brat_NEJM2015.pdf?dl=0) Brat NEJM 2015:2481
+[Brat NEJM 2015:2481](https://www.dropbox.com/s/wk0p2mhb9yol7ox/_Brat_NEJM2015.pdf?dl=0) 
 
-[link](https://www.dropbox.com/s/u9pewa9gnxaheug/_Brat2018_Article_CIMPACT-NOWUpdate3Recommended.pdf?dl=0)  cIMPACT-NOW 3: Brat 2018 Acta NP 
+[Brat 2018 Acta NP](https://www.dropbox.com/s/u9pewa9gnxaheug/_Brat2018_Article_CIMPACT-NOWUpdate3Recommended.pdf?dl=0)  
 
+[IDH mutant diffuse and anaplastic astrocytomas: pretty much the same thing](https://www.dropbox.com/s/ijmlhvj8om4cqg0/_ReussActaNP2015.pdf?dl=0)
 
 ### Why methylation of MGMT is important: 
-[link](https://www.dropbox.com/s/paqv9ey72y3u0ih/_HegiMGMT_GBM_NEJM2005.pdf?dl=0)   Hegi NEMJ 2005
+[Hegi NEMJ 2005](https://www.dropbox.com/s/paqv9ey72y3u0ih/_HegiMGMT_GBM_NEJM2005.pdf?dl=0)
 
-[link](https://www.dropbox.com/s/gmhh05iuxrwafnu/_Wick2014NatRevNeurol.pdf?dl=0) Wick Nat Rev Neurol 2014:372
+[Wick Nat Rev Neurol 2014:372](https://www.dropbox.com/s/gmhh05iuxrwafnu/_Wick2014NatRevNeurol.pdf?dl=0) 
    
-### Value-added markers of glioblastoma: useful in IDH-WT grade II or III infiltrating astrocytoma. 
+### IDH-WT grade II or III infiltrating astrocytoma: GBM in sheep's clothing
 
-[link](https://www.dropbox.com/s/u9pewa9gnxaheug/_Brat2018_Article_CIMPACT-NOWUpdate3Recommended.pdf?dl=0) cIMPACT-NOW 3: Brat 2018 Acta NP
+[Adult IDH wild type grade II and grade III gliomas should be further stratified](https://www.dropbox.com/s/6slfkwv1d5wv40q/_AibaidulaNeuroOncol2017.pdf?dl=0)
 
-[link](https://www.dropbox.com/s/rm5aycdeq0zj752/_Collins-2014.pdf?dl=0) Collins Acta NP 2014
+[Adult IDH wild type grade II and III gliomas below to GBM molecular class](https://www.dropbox.com/s/wlp06zz1l7tkbw5/_ReussActaNP2015.407.pdf?dl=0)
+
+[cIMPACT-NOW 3: Brat Acta Neuropathol 2018](https://www.dropbox.com/s/u9pewa9gnxaheug/_Brat2018_Article_CIMPACT-NOWUpdate3Recommended.pdf?dl=0) 
+
+[Prognostic relevance of genetic alterations to diffuse lower grade gliomas](https://www.dropbox.com/s/t7pjpnrrkflyd0m/_AokiNeuroOncol2018.pdf?dl=0)
+
+### So you want to rule out worse disease: 
+[EGFR, +7 and -10](https://www.dropbox.com/s/6bol1opw2kae2st/_StichelActaNP2018.pdf?dl=0)
+
+[Collins Acta NP 2014](https://www.dropbox.com/s/rm5aycdeq0zj752/_Collins-2014.pdf?dl=0) 
    
 ### Rule outs/mimics of diffuse gliomas 
 Midline tumors: the Histone 3 story
