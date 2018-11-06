@@ -9,59 +9,77 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Purpose:
+## Purpose
 
 To provide a short list of resources for health care providers who take care of diffuse glioma patients.
 
-## Important websites:
-Sites for exploring The Cancer Genome Atlas (TCGA) data:
+## Links to important papers in DropBox
 
-[cbioportal](http://www.cbioportal.org)
+###What we know about glioblastoma
 
-[firebrowse](http://firebrowse.org)
+[The molecular era of GBM begins](https://www.dropbox.com/s/j0g6w0l5a2kvsce/_ParsonsScience2008.pdf?dl=0)
 
-[Heidelberg methylation profiling:](https://www.molecularneuropathology.org/mnp)
+### The rise of IDH1/2
+[Original work comes from TCGA GBM dataset!?](https://www.dropbox.com/s/w9vnuvhse0wcujb/_YanNEJM2009.pdf?dl=0)
 
-
-## Links to important papers in DropBox:
-What we know about glioblastoma:
-
-[TCGA Nature 2008:1061](https://www.dropbox.com/s/or0sndekgttrs84/_Parsons-2008-An%20integrated%20genomi.pdf?dl=0)
-
-### The rise of IDH1/2:
-[Brat NEJM 2015:2481](https://www.dropbox.com/s/wk0p2mhb9yol7ox/_Brat_NEJM2015.pdf?dl=0) 
-
+[Lower grade diffuse gliomas examined by massive sequencing effort](https://www.dropbox.com/s/wk0p2mhb9yol7ox/_Brat_NEJM2015.pdf?dl=0) 
 [Brat 2018 Acta NP](https://www.dropbox.com/s/u9pewa9gnxaheug/_Brat2018_Article_CIMPACT-NOWUpdate3Recommended.pdf?dl=0)  
 
 [IDH mutant diffuse and anaplastic astrocytomas: pretty much the same thing](https://www.dropbox.com/s/ijmlhvj8om4cqg0/_ReussActaNP2015.pdf?dl=0)
 
-### Why methylation of MGMT is important: 
-[Hegi NEMJ 2005](https://www.dropbox.com/s/paqv9ey72y3u0ih/_HegiMGMT_GBM_NEJM2005.pdf?dl=0)
+### Why methylation of MGMT is important 
+[The original New England Journal report](https://www.dropbox.com/s/paqv9ey72y3u0ih/_HegiMGMT_GBM_NEJM2005.pdf?dl=0)
 
-[Wick Nat Rev Neurol 2014:372](https://www.dropbox.com/s/gmhh05iuxrwafnu/_Wick2014NatRevNeurol.pdf?dl=0) 
+[Wick's review piece](https://www.dropbox.com/s/gmhh05iuxrwafnu/_Wick2014NatRevNeurol.pdf?dl=0) 
    
 ### IDH-WT grade II or III infiltrating astrocytoma: GBM in sheep's clothing
 
 [Adult IDH wild type grade II and grade III gliomas should be further stratified](https://www.dropbox.com/s/6slfkwv1d5wv40q/_AibaidulaNeuroOncol2017.pdf?dl=0)
 
-[Adult IDH wild type grade II and III gliomas below to GBM molecular class](https://www.dropbox.com/s/wlp06zz1l7tkbw5/_ReussActaNP2015.407.pdf?dl=0)
+[Adult IDH wild type grade II and III gliomas belong to GBM molecular class](https://www.dropbox.com/s/wlp06zz1l7tkbw5/_ReussActaNP2015.407.pdf?dl=0)
 
-[cIMPACT-NOW 3: Brat Acta Neuropathol 2018](https://www.dropbox.com/s/u9pewa9gnxaheug/_Brat2018_Article_CIMPACT-NOWUpdate3Recommended.pdf?dl=0) 
+[Inventing a new class of diffuse glioma to accommodate the molecular findings](https://www.dropbox.com/s/u9pewa9gnxaheug/_Brat2018_Article_CIMPACT-NOWUpdate3Recommended.pdf?dl=0) 
 
 [Prognostic relevance of genetic alterations to diffuse lower grade gliomas](https://www.dropbox.com/s/t7pjpnrrkflyd0m/_AokiNeuroOncol2018.pdf?dl=0)
 
-### So you want to rule out worse disease: 
-[EGFR, +7 and -10](https://www.dropbox.com/s/6bol1opw2kae2st/_StichelActaNP2018.pdf?dl=0)
+### So you think it might be a "Diffuse astrocytic glioma, IDH‑wildtype, with molecular features of glioblastoma, WHO grade IV"... how do you support your impression?
 
-[Collins Acta NP 2014](https://www.dropbox.com/s/rm5aycdeq0zj752/_Collins-2014.pdf?dl=0) 
+[EGFR amplification, +7 and -10 shown to be helpful. . . at least in classification](https://www.dropbox.com/s/6bol1opw2kae2st/_StichelActaNP2018.pdf?dl=0)
+
+[But prognosis and prediction are mostly a matter of IDH mutation and MGMT promoter methylation](https://www.dropbox.com/s/rm5aycdeq0zj752/_Collins-2014.pdf?dl=0) 
    
-### Rule outs/mimics of diffuse gliomas 
-Midline tumors: the Histone 3 story
+### Other considerations 
+[Diffuse midline gliomas and histone mutations: nomenclature considerations](https://www.dropbox.com/s/tsso7m33tb787ql/_LouisActaNP2018.pdf?dl=0)
 
-### In infants and children, see especially:    
-   Qaddoumi Acta Neuropathol 2016:25
-   Sturm
+[H3K27M mutants: a plurality in pediatric high grade glioma and DIPG](https://www.dropbox.com/s/n4h1tmdu23mchdt/_MackayCancerCell2017.pdf?dl=0)
+
+### In infants and children, see especially...  
+#### BRAF Alterations
+[Pilocytic astrocytoma and BRAF translocation/duplication](https://www.dropbox.com/s/zy0sxpulkt2ciea/_JonesCancerRes2008.pdf?dl=0)
+
+[BRAF V600E in context with BRAF translocation/duplications: V600E heralds other tumors too](https://www.dropbox.com/s/jfbzo1qdgeo90t0/_HorbinskiJNEN2013.pdf?dl=0)
+
+#### Other uncommon low grade neuroepithelial tumors
+
+[Low-grade neuroepithelial tumors](https://www.dropbox.com/s/vxdbeewo4pmaqj6/_QaddoumiActaNP2016.pdf?dl=0)
+
+#### High grade supratentorial pediatric neuroepithelial tumors
+[Uncommon supratentorial high grade neuroepithelial tumors](https://www.dropbox.com/s/zkled131o69t933/_SturmCell2016.pdf?dl=0)
+
+[Pediatric gliomas: a review](https://www.dropbox.com/s/6egdn5f1iqt8a6u/_SturmJCO2017.pdf?dl=0)
    
-### Methylation profiling based classification: what's the fuss
+### Methylation profiling based classification: what's the fuss?
 
+[Time to put away the microscope?](https://www.dropbox.com/s/39cbhe7dkkac5tq/_CapperNature2018.pdf?dl=0)
+
+## Important websites:
+Sites for exploring The Cancer Genome Atlas (TCGA) data:
+
+[Memorial Sloan Kettering Cancer Center:cBioPortal](http://www.cbioportal.org)
+
+[Broad Institute of MIT and Harvard: Firebrowse](http://firebrowse.org)
+
+[Fred Hutch, Seattle, Oncoscape](https://oncoscape.v3.sttrcancer.org)
+
+[Heidelberg methylation profiling:](https://www.molecularneuropathology.org/mnp)
 
