@@ -78,6 +78,9 @@ To provide a short list of resources for health care providers who take care of 
 #### High grade supratentorial pediatric neuroepithelial tumors
 [Uncommon supratentorial high grade neuroepithelial tumors](https://www.dropbox.com/s/zkled131o69t933/_SturmCell2016.pdf?dl=0)
 
+### High grade supratentorial pediatric neuroepithelial tumors
+[Developing ontology: Figure 1 and Table 1 in this paper show how to start dissecting these rare and lethal pediatric tumors](https://www.dropbox.com/s/ndispmwhuobgb3t/_HwangJCO2018.pdf?dl=0)
+
 [Pediatric gliomas: a review](https://www.dropbox.com/s/6egdn5f1iqt8a6u/_SturmJCO2017.pdf?dl=0)
    
 ### Methylation profiling based classification: what's the fuss?
