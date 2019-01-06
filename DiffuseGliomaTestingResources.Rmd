@@ -1,10 +1,11 @@
 ---
 title: "Diffuse Glioma Testing Resources"
 author: "W. McDonald, MD"
-date: "11/07/2018"
+date: "1/6/2018"
 output:
   html_document: default
   word_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -86,6 +87,10 @@ To provide a short list of resources for health care providers who take care of 
 ### Methylation profiling based classification: what's the fuss?
 
 [Time to put away the microscope?](https://www.dropbox.com/s/39cbhe7dkkac5tq/_CapperNature2018.pdf?dl=0)
+
+### Panels for diffuse gliomas come of age.
+
+[A diffuse glioma NGS panel covering a variety of targets. (Duesseldorf) ](https://www.dropbox.com/s/y5vlcysyysixudg/_ZacherBrainPathol2017.pdf?dl=0)
 
 ## Important websites:
 #### Sites for exploring The Cancer Genome Atlas (TCGA) data:
